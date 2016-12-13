@@ -16,7 +16,6 @@ public class TestClass {
          * 1.使用类的字面常量
          * 2.使用Class.forName()函数
          * 3.使用getClass()函数
-         * 4.ceshi
          */
         Class c1 = Student.class;
 
